@@ -19,7 +19,7 @@ li{
     color: white;   
 }
 .cards{
-    background-color: white;
+    background-color: rgb(41, 41, 41);
     display: flex;
     justify-content: center;
     gap: 30px;
